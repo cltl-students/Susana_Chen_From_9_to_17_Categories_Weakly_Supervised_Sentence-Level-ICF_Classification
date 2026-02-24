@@ -1,0 +1,21 @@
+Category,Sentence Count,Sentence %,Note Count,Note %
+B1300 Energy level,4163,1.22,2267,13.81
+B140 Attention functions,1204,0.35,680,4.14
+B152 Emotional functions,10224,3.0,3727,22.7
+B440 Respiration functions,18192,5.34,5930,36.11
+B455 Exercise tolerance functions,5335,1.57,2852,17.37
+B530 Weight maintenance functions,4748,1.39,2346,14.29
+D450 Walking,9238,2.71,3960,24.12
+D550 Eating,8129,2.39,3502,21.33
+D840-D859 Work and employment,2222,0.65,1191,7.25
+B280 Sensations of pain,19019,5.58,7185,43.76
+B134 Sleep functions,6158,1.81,3894,23.71
+D760 Family relationships,11040,3.24,5084,30.96
+B164 Higher-level cognitive functions,7143,2.1,2838,17.28
+D465 Moving around using equipment,4669,1.37,2782,16.94
+D410 Changing basic body position,7054,2.07,3514,21.4
+B230 Hearing functions,3158,0.93,1460,8.89
+D240 Handling stress and other psychological demands,7182,2.11,3346,20.38
+None,225662,66.26,6257,38.11
+TOTAL_SENTENCES,340592,100.0,,
+TOTAL_NOTES,,,16420,100.0
